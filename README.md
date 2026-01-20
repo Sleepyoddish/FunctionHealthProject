@@ -34,7 +34,7 @@ FunctionHealthProject/
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/Sleepyoddish/FunctionHealthProject>
 cd FunctionHealthProject
 
 2. Create a virtual environment and activate it:
