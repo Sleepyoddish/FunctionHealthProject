@@ -82,6 +82,12 @@ Future improvements:
 
 -Add retries or resilience for flaky elements like dynamic iframes.
 
+-Implement data-driven tests for broader coverage of input scenarios.
+
+-Enhance logging and reporting for better test result analysis.
+
+-Make locators more versatile, robust, and stable by using more reliable selectors (e.g., data-testids).
+
 -Expand test coverage to include negative scenarios and edge cases.
 
 -Create more helper methods in page classes to reduce code duplication across tests.
