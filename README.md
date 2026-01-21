@@ -75,6 +75,7 @@ Scalability and Maintainability
 
 -Page Object Model (POM): Each page interaction is encapsulated in its own class, making it easy to update locators and methods without affecting test logic.
 -Fixtures: Common setup and teardown logic is handled via pytest fixtures in conftest.py, promoting code reuse.
+-Commenting and Documentation: Each class and method includes comments for clarity.
 
 Future improvements:
 
@@ -95,3 +96,5 @@ Future improvements:
 -Integrate with CI/CD pipelines for automated test execution on code changes.
 
 -Add cross-browser testing to ensure compatibility across different browsers.
+
+-Implement parameterized tests to cover a wider range of input scenarios with less code duplication.
